@@ -1,5 +1,5 @@
 ;;; =============================================================================
-;;;                   NASSLISP SPEC COUNTER.lsp
+;;;                   NASSLISP SPEC COUNTER v4
 ;;; Creator: Daniel Adolf Nass                                        10.06.2026
 ;;; Counts AutoCAD Plant 3D Specs and their total pipe lengths
 ;;; Usage: Load the .lsp file using APPLOAD, then type "SPEC" in the command line
@@ -125,5 +125,5 @@
   result
 )
 
-(princ "\nThank you for choosing NASSLISP. SPEC-COUNTER.v4 loaded. Type SPECS to run.")
+(princ "\nThank you for choosing NASSLISP. SPEC-COUNTER.v4 loaded. Type SPEC to run.")
 (princ)
